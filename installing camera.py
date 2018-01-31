@@ -8,7 +8,6 @@ import sys
    # def __str__ (self):
      #   return '(' + str(self.x) + ',' + str(self.y) + ')'
 
-
 def intersect(sg1,sg2):
     x1, y1 = sg1[0][0], sg1[0][1]
     x2, y2 = sg1[1][0], sg1[1][1]
